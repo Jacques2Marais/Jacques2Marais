@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Jacques Marais.
-- 👀 I’m interested in Rust, web development, OS-level programming, writing, UI design and some music stuff.
-- 🌱 I’m currently studying at Stellenbosch University in South Africa. In my free time I do all of the above mentioned.
-- 📫 How to reach me? Mail me at _iamjacquesmarais_ at the _gmail_ full-stop _com_.
+- 👀 I’m interested in front-end development, design (esp. UI/UX), programming in general, writing and music.
+- 🌱 I'm currently working, full-time, in a front-end development and UI/UX design role.
